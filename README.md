@@ -6,4 +6,4 @@ In this project, we identified the potential fradulent invoices and purchase ord
  4. Vendor Master Payment Terms Less Than X Days
  5. Invoice Frequency
  
-The code fiiles in this repository contains only data cleansing, data merge, and unit test. The further analytics and visualizations are finished in Tableau.
+The code files in this repository contains only data cleansing, data merge, and unit test. The further analytics and visualizations are finished in Tableau.
