@@ -1,0 +1,1 @@
+Note: The Tableau input for this report is the same as the report table output.
